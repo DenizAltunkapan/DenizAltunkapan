@@ -1,13 +1,13 @@
-<h1 align="center">Welcome👋, I'm Deniz Altunkapan</h1>
+<h1 align="center">Welcome😊, I'm Deniz</h1>
 <h3 align="center">A Software Engineering Student from Germany</h3>
 
 - 📫 You can reach me at **deniz.altunkapan@outlook.com**
 
-- 🔭 Follow my Bachelor's journey through my [studies](https://github.com/DenizAltunkapan/studies) repository
+- 🔭 Follow my Bachelor's journey through my [studies repository](https://github.com/DenizAltunkapan/studies)
 
 - 🌱 I’m currently learning **Vue.js and Spring Boot**
 
-- 👨‍💻 I regularly solve LeetCode problems on my YouTube channel: [LeetCode Playlist](https://youtube.com/playlist?list=PL8oNiMQ5bAc-E9dxq0h1i6NiUehmZKEks&si=DjBJ2CLP1b_juCFh)
+- 👨‍💻 Here you can find my [Java Crash Course](https://youtube.com/playlist?list=PL8oNiMQ5bAc8L0_yL9kplowJyZNeW5NrW&si=HUTQe23AKUHHLeCK)
 
 - ⚡ My next big project is to create **a portfolio website!**
 
@@ -44,9 +44,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://instagram.com/deniz.styx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deniz.styx" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/deniz-altunkapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniz-altunkapan" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@SimplexityEdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplexityedu" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/denizaltunkapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="denizaltunkapan" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/28464730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28464730" height="30" width="40" /></a>
+    <a href="https://instagram.com/deniz.styx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deniz.styx" height="30" width="40" /></a>
 </p>
 
