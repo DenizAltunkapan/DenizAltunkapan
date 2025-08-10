@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/DenizAltunkapan/DenizAltunkapan/master/profile.gif)](https://deniz-dev.com/)
+[![](https://github.com/DenizAltunkapan/DenizAltunkapan/blob/main/profile.gif)](https://deniz-dev.com/)
 
 <h3 align="center">A Software Engineering Student from Germany</h3>
 
