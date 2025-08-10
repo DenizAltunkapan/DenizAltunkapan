@@ -1,4 +1,5 @@
-<h1 align="center">Welcome😊, I'm Deniz</h1>
+[![](https://raw.githubusercontent.com/DenizAltunkapan/DenizAltunkapan/master/profile.gif)](https://deniz-dev.com/)
+
 <h3 align="center">A Software Engineering Student from Germany</h3>
 
 - 📫 You can reach me at **deniz.altunkapan@outlook.com**
