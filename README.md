@@ -1,10 +1,8 @@
 [![Header](https://github.com/DenizAltunkapan/DenizAltunkapan/blob/main/profile.gif)](https://deniz-dev.com/)
 
-## A Software Engineering Student from Germany
-
-- 🔭 Follow my Bachelor's journey through my [studies repository](https://github.com/DenizAltunkapan/studies)
-
-- 👨‍💻 Here you can find my [Java Crash Course](https://youtube.com/playlist?list=PL8oNiMQ5bAc8L0_yL9kplowJyZNeW5NrW&si=HUTQe23AKUHHLeCK)
+I am a Software Engineering student from Germany.  
+You can follow my Bachelor's journey through my [studies repository](https://github.com/DenizAltunkapan/studies).  
+Additionally, I have created a [Java Crash Course](https://youtube.com/playlist?list=PL8oNiMQ5bAc8L0_yL9kplowJyZNeW5NrW&si=HUTQe23AKUHHLeCK) where you can explore Java concepts step by step.
 
 
 ### Languages
@@ -30,8 +28,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://angular.io)
 [![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![.NET](https://img.shields.io/badge/.NET-%23239120.svg?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org)
 
 ### Connect with me:
 
