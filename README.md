@@ -1,9 +1,11 @@
 [![Header](https://github.com/DenizAltunkapan/DenizAltunkapan/blob/main/profile.gif)](https://deniz-dev.com/)
 
-I am a Software Engineering student from Germany.  
-You can follow my Bachelor's journey through my [studies repository](https://github.com/DenizAltunkapan/studies).  
-Additionally, I have created a [Java Crash Course](https://youtube.com/playlist?list=PL8oNiMQ5bAc8L0_yL9kplowJyZNeW5NrW&si=HUTQe23AKUHHLeCK) where you can explore Java concepts step by step.
+I am a B.Sc. Software Engineering student from Germany.
+I am passionate about creating, exploring new technologies, and sharing knowledge. 
 
+🌍 Besides coding, I am currently learning Chinese (你好 👋).  
+📖 You can follow my Bachelor's journey through my [studies repository](https://github.com/DenizAltunkapan/studies).  
+🎥 Additionally, I created a [Java Crash Course](https://youtube.com/playlist?list=PL8oNiMQ5bAc8L0_yL9kplowJyZNeW5NrW&si=HUTQe23AKUHHLeCK) where you can explore Java concepts step by step.
 
 ### Languages
 
@@ -37,6 +39,4 @@ Additionally, I have created a [Java Crash Course](https://youtube.com/playlist?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deniz-altunkapan)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SimplexityEdu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/denizaltunkapan)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28464730)  
-
-![snake gif](https://github.com/DenizAltunkapan/DenizAltunkapan/blob/output/github-snake.svg)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28464730)
